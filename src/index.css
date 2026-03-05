@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  font-family: 'monospace', monospace;
+  background-color:antiquewhite;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  height: 100vh;
+  width: 100%;
+}
+
+h3{
+  color: #333;
+  text-align: start;
+  margin-bottom: 8px;
+  margin-top: 25px; 
+  font-size: 1.5rem;
+}
+
+
+h1{
+  color: #333;
+  text-align: start;
+  margin-bottom: 8px;
+  margin-top: 30px; 
+  font-size: 3.4rem;
+
+}
+
+h2{
+  color: grey;
+  text-align: start;
+  margin-top: 30px; 
+  font-size: 2.5rem;
+
+}
