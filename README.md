@@ -1,4 +1,3 @@
-# React + Vite
 # React Material UI Practice
 
 This repository contains my practice and learning projects using **React** and **Material UI (MUI)**.
